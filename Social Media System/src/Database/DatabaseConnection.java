@@ -13,7 +13,7 @@ public class DatabaseConnection {
 
     private static final String URL = "jdbc:mysql://localhost:3306/SocialMedia";  // Replace with your database name
     private static final String USER = "root";  // Replace with your username
-    private static final String PASSWORD = "radhekrishna@123";  // Replace with your password
+    private static final String PASSWORD = "1aashishA";  // Replace with your password
 
     // Method to establish and return a database connection
     public static Connection getConnection() throws SQLException {
